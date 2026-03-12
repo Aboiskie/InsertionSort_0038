@@ -31,6 +31,8 @@ void input()
         cin >> arr[i];
     }
 }
+
+
 void insertionsort()
 {
     int temp;
@@ -66,7 +68,6 @@ void display()
     }
     cout << endl;
 }
-
 int main()
 {
     input();
