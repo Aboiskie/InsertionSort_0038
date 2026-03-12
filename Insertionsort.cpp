@@ -20,3 +20,7 @@ void input()
             cout << "\nArray Tidak Boleh Lebih Dari 20\n";
         }
     }
+    cout << endl;
+    cout << "=============================================";
+    cout << "==========Masukan Elemen Array==============";
+    cout << "=============================================" << endl;
